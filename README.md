@@ -151,6 +151,15 @@ Educational tool for understanding sorting algorithms:
 
 ---
 
+## 📝 Repository Update Summary
+
+- **Current Total Commits:** `2`
+- **Previous Changes:**
+  - `d585f34` — Update README.md *(2026-04-09)*
+  - `7a478af` — Update README.md *(2026-04-09)*
+
+---
+
 ## 🎯 Areas of Expertise
 
 <table align="center">
@@ -240,6 +249,6 @@ I'm actively seeking opportunities to:
 
 **Made with ❤️ by Ramesh Sain**
 
-*Last Updated: 2026-04-09*
+*Last Updated: 2026-04-13*
 
 </div>
