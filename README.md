@@ -1,16 +1,12 @@
 # 👋 Welcome to My GitHub Profile
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=🚀+AI%2FML+Engineer+%26+NLP+Researcher;Full+Stack+Developer;Open+Source+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
-</div>
-
----
+## 🎯 Focus Areas
+- AI/ML Engineer & NLP Researcher
+- Full Stack Developer
+- Open Source Enthusiast
+- Building Intelligent Systems
 
 ## 💼 About Me
-
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoRKslHVtqjJJ6389/giphy.gif" width="200" alt="AI ML Developer" />
-</div>
 
 I'm **Ramesh Sain**, a passionate **AI/ML Engineer** and **NLP Researcher** with expertise in building intelligent systems, conducting cutting-edge research on hate speech detection, and developing production-ready AI applications. My work focuses on addressing real-world challenges in natural language processing, particularly in multilingual and low-resource language environments.
 
@@ -139,15 +135,8 @@ Educational tool for understanding sorting algorithms:
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rameshsain070&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rameshsain070&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=FFFFFF)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rameshsain070&theme=radical&hide_border=true&background=0d1117&stroke=00FF00&ring=00FF00)](https://github.com/Rameshsain070)
-
-</div>
+- [View profile overview, contribution graph, and pinned repositories](https://github.com/Rameshsain070)
+- [View repositories with languages and activity insights](https://github.com/Rameshsain070?tab=repositories)
 
 ---
 
