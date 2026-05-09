@@ -133,8 +133,8 @@ Educational tool for understanding sorting algorithms:
 
 ## 📊 GitHub Statistics
 
-- Profile overview & contributions: https://github.com/Rameshsain070
-- Repository insights (languages, activity): https://github.com/Rameshsain070?tab=repositories
+- Profile overview, contribution graph, and pinned repositories: https://github.com/Rameshsain070
+- Repository list with languages and activity insights: https://github.com/Rameshsain070?tab=repositories
 
 ---
 
