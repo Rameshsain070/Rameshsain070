@@ -140,6 +140,19 @@ Educational tool for understanding sorting algorithms:
 
 ---
 
+## 🧊 3D Showcase
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 📝 Repository Update Summary
 
 - **Current Total Commits:** `2`
@@ -232,12 +245,23 @@ I'm actively seeking opportunities to:
 
 ---
 
+## 🐍 3D Contribution Snake Game
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution Snake Game" src="./dist/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
 <div align="center">
 
 ### ⭐ If you find my projects helpful, feel free to star them!
 
 **Made with ❤️ by Ramesh Sain**
 
-*Last Updated: 2026-04-13*
+*Last Updated: 2026-05-09*
 
 </div>
