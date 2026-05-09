@@ -2,8 +2,6 @@
 
 **AI/ML Engineer & NLP Researcher | Full Stack Developer | Open Source Enthusiast | Building Intelligent Systems**
 
----
-
 ## 💼 About Me
 
 I'm **Ramesh Sain**, a passionate **AI/ML Engineer** and **NLP Researcher** with expertise in building intelligent systems, conducting cutting-edge research on hate speech detection, and developing production-ready AI applications. My work focuses on addressing real-world challenges in natural language processing, particularly in multilingual and low-resource language environments.
