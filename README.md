@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile
 
-**Focus Areas**
+## 🎯 Focus Areas
 - AI/ML Engineer & NLP Researcher
 - Full Stack Developer
 - Open Source Enthusiast
