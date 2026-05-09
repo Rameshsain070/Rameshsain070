@@ -1,6 +1,10 @@
 # 👋 Welcome to My GitHub Profile
 
-**AI/ML Engineer & NLP Researcher | Full Stack Developer | Open Source Enthusiast | Building Intelligent Systems**
+**Focus Areas**
+- AI/ML Engineer & NLP Researcher
+- Full Stack Developer
+- Open Source Enthusiast
+- Building Intelligent Systems
 
 ## 💼 About Me
 
